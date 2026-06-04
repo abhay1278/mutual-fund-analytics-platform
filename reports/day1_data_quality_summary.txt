@@ -1,0 +1,13 @@
+DATA QUALITY SUMMARY
+
+1. Successfully loaded all 10 datasets.
+2. fund_master contains 40 mutual fund schemes.
+3. NAV history contains data for all 40 AMFI scheme codes.
+4. AMFI validation completed successfully.
+5. Missing AMFI codes: 0.
+6. Categories identified: Equity and Debt.
+7. Total sub-categories identified: 12.
+8. Risk categories identified: Low, Moderate, High, Moderately High, Very High.
+
+Conclusion:
+Dataset integrity is good. All mutual fund schemes have corresponding NAV history records and are suitable for further analysis.
