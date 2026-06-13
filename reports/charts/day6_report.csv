@@ -1,0 +1,21 @@
+## Advanced Business Insights
+
+## Insight 1: Highest Downside Risk Funds
+
+Based on the 95% Historical VaR analysis, AMFI codes 119599, 119095, and 101207 exhibited the largest potential daily losses. These schemes showed the most negative VaR and CVaR values, indicating higher downside risk during adverse market conditions.
+
+## Insight 2: Strong Investor Participation from 2024 Cohort
+
+The 2024 investor cohort contributed the majority of investments, with 4,803 investors investing over ₹3.49 billion. This cohort represents the primary growth driver of the investor base and demonstrates strong retail participation.
+
+## Insight 3: High SIP Discontinuation Risk
+
+SIP continuity analysis identified 1,332 investors as At-Risk compared to only 30 Healthy investors. More than 97% of investors with six or more SIP transactions exhibited average gaps greater than 35 days, suggesting significant SIP retention challenges.
+
+## Insight 4: Superior Risk-Adjusted Performance
+
+Funds with the highest Sharpe and Sortino Ratios consistently delivered better risk-adjusted returns. These schemes generated stronger returns per unit of risk and are suitable candidates for recommendation engines and model portfolios.
+
+## Insight 5: Portfolio Concentration Differences
+
+Sector concentration analysis using the Herfindahl-Hirschman Index (HHI) revealed significant variation across funds. AMFI code 119092 had the highest concentration (HHI = 0.206), while AMFI code 119598 was the most diversified (HHI = 0.107). Investors seeking diversification may prefer lower-HHI funds.
